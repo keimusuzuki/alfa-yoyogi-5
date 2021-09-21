@@ -147,8 +147,11 @@ button {
   width: 100%;
 }
 
+/*********************
+* Color
+*********************/
 .card {
-  background-color: #0c081de0;
+  background-color: #0c081de0; */
   margin-bottom: 20px;
   height: 100%;
 }
