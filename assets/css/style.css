@@ -148,10 +148,7 @@ button {
 }
 
 .card {
-  /*********************
-* Color
-*********************/
-  background-color: #0c081de0; */
+  background-color: #483d8b; 
   margin-bottom: 20px;
   height: 100%;
 }
